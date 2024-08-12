@@ -16,8 +16,27 @@
 - Phil Sturgeon [@Philsturgeon@mastodon.green](https://mastodon.green/@Philsturgeon)
 - Dmitri Goosens [@dgoosens@phpc.social](https://phpc.social/@dgoosens)
 - juststeveking [@juststeveking@phpc.social](https://phpc.social/@juststeveking)
-
-
+- Beau Simensen [@beausimensen@phpc.social](https://phpc.social/@beausimensen)
+- Nigel James [@Njames@phpc.social](https://phpc.social/@Njames
+- Keith Damiani [@keithdamiani@phpc.social](https://phpc.social/@keithdamiani)
+- Maurício M. Fauth [@mauriciofauth@phpc.social](https://phpc.social/@mauriciofauth)
+- Michelle Sanver [@michelle@phpc.social](https://phpc.social/@michelle)
+- Skoop (Stefan Koopmanschap) [@Skoop@phpc.social](https://phpc.social/@Skoop)
+- Andreas Heigl [@heiglandreas@phpc.social](https://phpc.social/@heiglandreas)
+- Joe Ferguson [@joepferguson@phpc.social](https://phpc.social/@joepferguson)
+- bob.php [@bobmagicii@phpc.social](https://phpc.social/@bobmagicii
+- dragonmantank [@dragonmantank@phpc.social](https://phpc.social/@dragonmantank
+- Gina Peter Banyard [@Girgias@phpc.social](https://phpc.social/@Girgias)
+- Nils Adermann [@naderman@phpc.social](https://phpc.social/@naderman)
+- Ian Littman [@ian@phpc.social](https://phpc.social/@ian)
+- Adam Culp [@adamculp@phpc.social](https://phpc.social/@adamculp)
+- TJ Miller [@tjmiller@phpc.social](https://phpc.social/@tjmiller)
+- Katy Ereira [@maccath@phpc.social](https://phpc.social/@maccath)
+- Stephan Hochdörfer [@shochdoerfer@phpc.social](https://phpc.social/@shochdoerfer)
+- Matthew Turland [@elazar@phpc.social](https://phpc.social/@elazar)
+- Logan [@llbbl@phpc.social](https://phpc.social/@llbbl)
+- dseguy [@dseguy@phpc.social](https://phpc.social/@dseguy)
+- Florian Engelhardt [@flowcontrol@phpc.social](https://phpc.social/@flowcontrol
 
 ### Internals
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
@@ -27,9 +46,14 @@
 ### Laravel
 - Laravel News [@laravelnews@mastodon.social](https://mastodon.social/@laravelnews)
 - Nuno Maduro [@nunomaduro@mastodon.social](https://mastodon.social/@nunomaduro)
+- freekmurze [@freekmurze@phpc.social](https://phpc.social/@freekmurze
 - Out of Control [@outofcontrol@phpc.social](https://phpc.social/@outofcontrol)
 - Michael Dyrynda [@michaeldyrynda@phpc.social](https://phpc.social/@michaeldyrynda)
 - Simon [@simonhamp@phpc.social](https://phpc.social/@simonhamp)
+- Marian Pop [@mvpopuk@phpc.social](https://phpc.social/@mvpopuk)
+- Tim MacDonald [@timacdonald@phpc.social](https://phpc.social/@timacdonald)
+- Chris Morrell [@chris@rtsn.dev](https://rtsn.dev/@chris
+- Daniel Coulbourne [@coulb@any.dev](https://any.dev/@coulb)
 
 ### Symfony
 - Symfony Station [@SymfonyStation@drupal.community](https://drupal.community/@SymfonyStation)
@@ -37,11 +61,11 @@
 - SymfonyCasts [@symfonycasts@phpc.social](https://phpc.social/@symfonycasts)
 
 ## Podcast
-PHPUgly [@phpugly@phparch.social](https://phparch.social/@phpugly)
-PHPRoundtable [@phproundtable@phparch.social](https://phparch.social/@phproundtable)
+- PHPUgly [@phpugly@phparch.social](https://phparch.social/@phpugly)
+- PHPRoundtable [@phproundtable@phparch.social](https://phparch.social/@phproundtable)
 
 ## Conferences
-PHP Tek Conference [@phptek@phparch.social](https://phparch.social/@phptek)
+- PHP Tek Conference [@phptek@phparch.social](https://phparch.social/@phptek)
 
 ## Other
-PHP Architect [@phparch@phparch.social](https://phparch.social/@phparch)
+- PHP Architect [@phparch@phparch.social](https://phparch.social/@phparch)
