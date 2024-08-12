@@ -26,7 +26,6 @@
 - Joe Ferguson [@joepferguson@phpc.social](https://phpc.social/@joepferguson)
 - bob.php [@bobmagicii@phpc.social](https://phpc.social/@bobmagicii
 - dragonmantank [@dragonmantank@phpc.social](https://phpc.social/@dragonmantank
-- Gina Peter Banyard [@Girgias@phpc.social](https://phpc.social/@Girgias)
 - Nils Adermann [@naderman@phpc.social](https://phpc.social/@naderman)
 - Ian Littman [@ian@phpc.social](https://phpc.social/@ian)
 - Adam Culp [@adamculp@phpc.social](https://phpc.social/@adamculp)
@@ -42,6 +41,7 @@
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
 - Derick Rethans [@derickr@phpc.social](https://phpc.social/@derickr)
 - Larry Garfield [@Crell@phpc.social](https://phpc.social/@Crell)
+- Gina Peter Banyard [@Girgias@phpc.social](https://phpc.social/@Girgias)
 
 ### Laravel
 - Laravel News [@laravelnews@mastodon.social](https://mastodon.social/@laravelnews)
