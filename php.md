@@ -17,7 +17,7 @@
 - Dmitri Goosens [@dgoosens@phpc.social](https://phpc.social/@dgoosens)
 - juststeveking [@juststeveking@phpc.social](https://phpc.social/@juststeveking)
 - Beau Simensen [@beausimensen@phpc.social](https://phpc.social/@beausimensen)
-- Nigel James [@Njames@phpc.social](https://phpc.social/@Njames
+- Nigel James [@Njames@phpc.social](https://phpc.social/@Njames)
 - Keith Damiani [@keithdamiani@phpc.social](https://phpc.social/@keithdamiani)
 - Maurício M. Fauth [@mauriciofauth@phpc.social](https://phpc.social/@mauriciofauth)
 - Michelle Sanver [@michelle@phpc.social](https://phpc.social/@michelle)
