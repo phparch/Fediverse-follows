@@ -36,7 +36,7 @@
 - Matthew Turland [@elazar@phpc.social](https://phpc.social/@elazar)
 - Logan [@llbbl@phpc.social](https://phpc.social/@llbbl)
 - dseguy [@dseguy@phpc.social](https://phpc.social/@dseguy)
-- Florian Engelhardt [@flowcontrol@phpc.social](https://phpc.social/@flowcontrol
+- Florian Engelhardt [@flowcontrol@phpc.social](https://phpc.social/@flowcontrol)
 
 ### Internals
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
@@ -52,7 +52,7 @@
 - Simon [@simonhamp@phpc.social](https://phpc.social/@simonhamp)
 - Marian Pop [@mvpopuk@phpc.social](https://phpc.social/@mvpopuk)
 - Tim MacDonald [@timacdonald@phpc.social](https://phpc.social/@timacdonald)
-- Chris Morrell [@chris@rtsn.dev](https://rtsn.dev/@chris
+- Chris Morrell [@chris@rtsn.dev](https://rtsn.dev/@chris)
 - Daniel Coulbourne [@coulb@any.dev](https://any.dev/@coulb)
 
 ### Symfony
