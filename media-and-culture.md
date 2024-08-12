@@ -20,6 +20,8 @@ This initial list is stolen... urr... borrowed, from [Chris Morrell](https://rts
 - Greta Thunberg [@gretathunberg@mastodon.nu](https://mastodon.nu/@gretathunberg)
 - Robert Reich [@rbreich@masto.ai](https://masto.ai/@rbreich)
 - Marc Elias [@marcelias@mas.to](https://mas.to/@marcelias)
+- James Spann [@spann@mastodon.social](https://mastodon.social/@spann)
+- David Pierce [@davidpierce](https://mastodon.social/@davidpierce)
 
 ## Tech Focused 
 - Jeff Jarvis [@jeffjarvis@mastodon.social](https://mastodon.social/@jeffjarvis)
@@ -32,6 +34,9 @@ This initial list is stolen... urr... borrowed, from [Chris Morrell](https://rts
 - Joanna Stern [@joannastern@mastodon.social](https://mastodon.social/@joannastern)
 - Philip Schiller [@Pschiller@mastodon.social](https://mastodon.social/@Pschiller)
 - Harry McCracken [@harrymccracken@mastodon.social](https://mastodon.social/@harrymccracken)
+- Kimber Streams [@kimberstreams](https://mastodon.social/@kimberstreams)
+- KB Sez [@kbsez@mastodon.social](https://mastodon.social/@kbsez)
+- Lora Kolodny [@lorakolodny@mastodon.social](https://mastodon.social/@lorakolodny)
 
 
 # Fun 
