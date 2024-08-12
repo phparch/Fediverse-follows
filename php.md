@@ -36,6 +36,11 @@
 - Logan [@llbbl@phpc.social](https://phpc.social/@llbbl)
 - dseguy [@dseguy@phpc.social](https://phpc.social/@dseguy)
 - Florian Engelhardt [@flowcontrol@phpc.social](https://phpc.social/@flowcontrol)
+- Justin Jackson [@mijustin@mastodon.social](https://mastodon.social/@mijustin)
+- Stephen Rees-Carter [@valorin@phpc.social](https://phpc.social/@valo)
+- Matthew Weier O'Phinney [@mwop@phpc.social](https://phpc.social/@mwop)
+- Kévin Dunglas [@dunglas@mastodon.social](https://mastodon.social/@dunglas)
+- Joe Tannenbaum [@joetannenbaum@rtsn.dev](https://rtsn.dev/@joetannenbaum)
 
 ### Internals
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
@@ -54,6 +59,7 @@
 - Tim MacDonald [@timacdonald@phpc.social](https://phpc.social/@timacdonald)
 - Chris Morrell [@chris@rtsn.dev](https://rtsn.dev/@chris)
 - Daniel Coulbourne [@coulb@any.dev](https://any.dev/@coulb)
+- Matt Stauffer [@mattstauffer@rtsn.dev](https://rtsn.dev/@mattstauffer)
 
 ### Symfony
 - Symfony Station [@SymfonyStation@drupal.community](https://drupal.community/@SymfonyStation)
