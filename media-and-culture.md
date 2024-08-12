@@ -2,6 +2,7 @@ This initial list is stolen... urr... borrowed, from [Chris Morrell](https://rts
 
 # Celebrities, Science, and Arts
 - George Takei [@georgetakei@universeodon.com](https://universeodon.com/@georgetakei)
+- Neil deGrasse Tyson [@neiltyson@mastodon.social](https://mastodon.social/@neiltyson)
 - Stephen Fry [@stephenfry@mastodonapp.uk](https://mastodonapp.uk/@stephenfry)
 - Neil Gaiman [@neilhimself@mastodon.social](https://mastodon.social/@neilhimself)
 - Cory Doctorow [@pluralistic@mamot.fr](https://mamot.fr/@pluralistic)
@@ -9,6 +10,26 @@ This initial list is stolen... urr... borrowed, from [Chris Morrell](https://rts
 - Brian Bilston [@brianbilston](https://mastodon.online/@brianbilston)
 
 # News and Politics
+
+- Taylor Lorenz[@taylorlorenz@mastodon.social](https://mastodon.social/@taylorlorenz)
+- ProPublica [@ProPublica@newsie.social](https://newsie.social/@ProPublica)
+- BrianKrebs [@briankrebs@infosec.exchange](https://infosec.exchange/@briankrebs)
+- Sheril Kirshenbaum [@Sheril@mastodon.social](https://mastodon.social/@Sheril)
+- Steve Herman [@w7voa@journa.host](https://journa.host/@w7voa)
+- Anne Applebaum [@anneapplebaum@journa.host](https://journa.host/@anneapplebaum)
+- Greta Thunberg [@gretathunberg@mastodon.nu](https://mastodon.nu/@gretathunberg)
+- Robert Reich [@rbreich@masto.ai](https://masto.ai/@rbreich)
+- Marc Elias [@marcelias@mas.to](https://mas.to/@marcelias)
+
+## Tech Focused 
+- Jeff Jarvis [@jeffjarvis@mastodon.social](https://mastodon.social/@jeffjarvis)
+- Casey Newton [@caseynewton@mastodon.social](https://mastodon.social/@caseynewton)
+- Ars Technica [@arstechnica@mastodon.social](https://mastodon.social/@arstechnica)
+- Lauren Goode [@laurengoode@mastodon.social](https://mastodon.social/@laurengoode)
+- Ben Thompson [@benthompson@mastodon.social](https://mastodon.social/@benthompson)
+- TechCrunch [@techcrunch@mastodon.social](https://mastodon.social/@techcrunch)
+- Joanna Stern [@joannastern@mastodon.social](https://mastodon.social/@joannastern)
+
 
 # Fun
 
