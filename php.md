@@ -51,7 +51,7 @@
 ### Laravel
 - Laravel News [@laravelnews@mastodon.social](https://mastodon.social/@laravelnews)
 - Nuno Maduro [@nunomaduro@mastodon.social](https://mastodon.social/@nunomaduro)
-- freekmurze [@freekmurze@phpc.social](https://phpc.social/@freekmurze
+- freekmurze [@freekmurze@phpc.social](https://phpc.social/@freekmurze)
 - Out of Control [@outofcontrol@phpc.social](https://phpc.social/@outofcontrol)
 - Michael Dyrynda [@michaeldyrynda@phpc.social](https://phpc.social/@michaeldyrynda)
 - Simon [@simonhamp@phpc.social](https://phpc.social/@simonhamp)
