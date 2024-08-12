@@ -23,13 +23,22 @@ This initial list is stolen... urr... borrowed, from [Chris Morrell](https://rts
 
 ## Tech Focused 
 - Jeff Jarvis [@jeffjarvis@mastodon.social](https://mastodon.social/@jeffjarvis)
+- Walt Mossberg [@waltmossberg@mastodon.world](https://mastodon.social/@waltmossberg@mastodon.world)
 - Casey Newton [@caseynewton@mastodon.social](https://mastodon.social/@caseynewton)
 - Ars Technica [@arstechnica@mastodon.social](https://mastodon.social/@arstechnica)
 - Lauren Goode [@laurengoode@mastodon.social](https://mastodon.social/@laurengoode)
 - Ben Thompson [@benthompson@mastodon.social](https://mastodon.social/@benthompson)
 - TechCrunch [@techcrunch@mastodon.social](https://mastodon.social/@techcrunch)
 - Joanna Stern [@joannastern@mastodon.social](https://mastodon.social/@joannastern)
+- Philip Schiller [@Pschiller@mastodon.social](https://mastodon.social/@Pschiller)
+- Harry McCracken [@harrymccracken@mastodon.social](https://mastodon.social/@harrymccracken)
 
 
-# Fun
+# Fun 
+- Elon Musk's Jet [@elonjet](https://mastodon.social/@elonjet)
+- War and Peas [@warandpeas@mastodon.social](https://mastodon.social/@warandpeas)
+- The Oatmeal [@oatmeal@mastodon.social](https://mastodon.social/@oatmeal)
+- Low Quality Facts [@lowqualityfacts](https://mstdn.social/@lowqualityfacts)
+- Picard Tips [@picardtips@botsin.space](https://botsin.space/@picardtips)
+- Riker Googling [@RikerGoogling@botsin.space](https://botsin.space/@RikerGoogling)
 
