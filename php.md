@@ -24,8 +24,8 @@
 - Skoop (Stefan Koopmanschap) [@Skoop@phpc.social](https://phpc.social/@Skoop)
 - Andreas Heigl [@heiglandreas@phpc.social](https://phpc.social/@heiglandreas)
 - Joe Ferguson [@joepferguson@phpc.social](https://phpc.social/@joepferguson)
-- bob.php [@bobmagicii@phpc.social](https://phpc.social/@bobmagicii
-- dragonmantank [@dragonmantank@phpc.social](https://phpc.social/@dragonmantank
+- bob.php [@bobmagicii@phpc.social](https://phpc.social/@bobmagicii)
+- dragonmantank [@dragonmantank@phpc.social](https://phpc.social/@dragonmantank)
 - Nils Adermann [@naderman@phpc.social](https://phpc.social/@naderman)
 - Ian Littman [@ian@phpc.social](https://phpc.social/@ian)
 - Adam Culp [@adamculp@phpc.social](https://phpc.social/@adamculp)
