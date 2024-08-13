@@ -75,3 +75,4 @@
 
 ## Other
 - PHP Architect [@phparch@phparch.social](https://phparch.social/@phparch)
+- PHP Community [@phpc@phpc.social](https://phpc.social/@phpc)
