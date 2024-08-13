@@ -14,6 +14,7 @@
 - Jill Bryant Ryniker [@Jill_linuxgirl@mast.linuxgamecast.com](https://mast.linuxgamecast.com/@Jill_linuxgirl)
 - MichaelTunnell [@MichaelTunnell](https://mastodon.social/@MichaelTunnell)
 - DasGeek [@dasgeek@mastodon.social](https://mastodon.social/@dasgeek)
+- Scott Williams [@vwbusguy@mastodon.online](https://mastodon.online/@vwbusguy)
 
 ## Projects and Groups
 - TuxDigital [@TuxDigital@mastodon.social](https://mastodon.social/@TuxDigital)
