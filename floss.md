@@ -12,6 +12,8 @@
 - Matthew Miller [@mattdm@hachyderm.io](https://hachyderm.io/@mattdm)
 - Christine Hall [@BrideOfLinux@mastodon.opencloud.lu](https://mastodon.opencloud.lu/@BrideOfLinux)
 - Jill Bryant Ryniker [@Jill_linuxgirl@mast.linuxgamecast.com](https://mast.linuxgamecast.com/@Jill_linuxgirl)
+- MichaelTunnell [@MichaelTunnell](https://mastodon.social/@MichaelTunnell)
+- DasGeek [@dasgeek@mastodon.social](https://mastodon.social/@dasgeek)
 
 ## Projects and Groups
 - TuxDigital [@TuxDigital@mastodon.social](https://mastodon.social/@TuxDigital)
@@ -19,6 +21,8 @@
 ## Podcasts
 - Reality 2.0 Podcast [@reality2cast@reality2.social](https://reality2.social/@reality2cast)
 - Destination Linux [@DestinationLinux@linuxrocks.online](https://linuxrocks.online/@DestinationLinux)
+- ThisWeekinLinux [@ThisWeekinLinux](https://mastodon.social/@ThisWeekinLinux)
+- Sudo Show [@sudoshowpodcast](https://mastodon.social/@sudoshowpodcast)
 
 ## Conferences
 - socallinuxexpo [@socallinuxexpo@social.linux.pizza](https://social.linux.pizza/@socallinuxexpo)
