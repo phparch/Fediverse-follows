@@ -47,4 +47,5 @@ This initial list is stolen... urr... borrowed, from [Chris Morrell](https://rts
 - Low Quality Facts [@lowqualityfacts](https://mstdn.social/@lowqualityfacts)
 - Picard Tips [@picardtips@botsin.space](https://botsin.space/@picardtips)
 - Riker Googling [@RikerGoogling@botsin.space](https://botsin.space/@RikerGoogling)
+- Command Line Magic [@climagic](https://mastodon.social/@climagic)
 
