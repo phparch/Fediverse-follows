@@ -37,6 +37,7 @@ This initial list is stolen... urr... borrowed, from [Chris Morrell](https://rts
 - Kimber Streams [@kimberstreams](https://mastodon.social/@kimberstreams)
 - KB Sez [@kbsez@mastodon.social](https://mastodon.social/@kbsez)
 - Lora Kolodny [@lorakolodny@mastodon.social](https://mastodon.social/@lorakolodny)
+- ChrisLAS [@ChrisLAS@podcastindex.social](https://podcastindex.social/@ChrisLAS)
 
 
 # Fun 
