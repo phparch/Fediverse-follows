@@ -45,6 +45,7 @@
 - Brent Roose aka Mr [Stitcher.io](https://stitcher.io/) [@brendt@phpc.social](https://phpc.social/@brendt)
 - Steve Grunwell [@stevegrunwell@phpc.social](https://phpc.social/@stevegrunwell)
 - Placebo Domingo [@brbcoding@indieweb.social](https://indieweb.social/@brbcoding)
+- Chris Arter [@chrisarter@phpc.social](https://phpc.social/@chrisarter)
 
 ### Internals
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
