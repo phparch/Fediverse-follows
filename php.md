@@ -42,6 +42,7 @@
 - Kévin Dunglas [@dunglas@mastodon.social](https://mastodon.social/@dunglas)
 - Joe Tannenbaum [@joetannenbaum@rtsn.dev](https://rtsn.dev/@joetannenbaum)
 - Tim Lytle [@tjlytle@phpc.social](https://phpc.social/@tjlytle)
+- Brent Roose aka Mr [Stitcher.io](https://stitcher.io/) [@brendt@phpc.social](https://phpc.social/@brendt)
 
 ### Internals
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
