@@ -43,6 +43,8 @@
 - Joe Tannenbaum [@joetannenbaum@rtsn.dev](https://rtsn.dev/@joetannenbaum)
 - Tim Lytle [@tjlytle@phpc.social](https://phpc.social/@tjlytle)
 - Brent Roose aka Mr [Stitcher.io](https://stitcher.io/) [@brendt@phpc.social](https://phpc.social/@brendt)
+- Steve Grunwell [@stevegrunwell@phpc.social](https://phpc.social/@stevegrunwell)
+- Placebo Domingo [@brbcoding@indieweb.social](https://indieweb.social/@brbcoding)
 
 ### Internals
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
