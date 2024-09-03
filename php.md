@@ -46,6 +46,7 @@
 - Steve Grunwell [@stevegrunwell@phpc.social](https://phpc.social/@stevegrunwell)
 - Placebo Domingo [@brbcoding@indieweb.social](https://indieweb.social/@brbcoding)
 - Chris Arter [@chrisarter@phpc.social](https://phpc.social/@chrisarter)
+- pronskiy [@pronskiy@phpc.social](https://elk.zone/phparch.social/@pronskiy@phpc.social)
 
 ### Internals
 - Sara Golemon [@pollita@phpc.social](https://phpc.social/@pollita)
