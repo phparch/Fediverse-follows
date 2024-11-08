@@ -73,7 +73,6 @@
 - SymfonyCasts [@symfonycasts@phpc.social](https://phpc.social/@symfonycasts)
 
 ## Podcast
-- PHPUgly [@phpugly@phparch.social](https://phparch.social/@phpugly)
 - PHPRoundtable [@phproundtable@phparch.social](https://phparch.social/@phproundtable)
 
 ## Conferences
